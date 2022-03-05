@@ -1,7 +1,7 @@
 ## Session 11
 ### Part IV - Production Applications (1/2)
 
-![Banner Session 11](/assets/banner_session_11.png)
+![Banner Session 11](../assets/banner_session_11.png)
 
 ### Resumen
 Hasta ahora, hemos enfocado en las propiedades de Spark como interfaz de programación. En esta sesión, nos enfocamos en los tópicos relevantes sobre la implementación de aplicaciones en Spark, conociendo la arquitectura, componentes y ciclo de vida de una aplicación, los pasos necesarios para ejecutarlo, cómo desarrollarlo y qué opciones Spark nos ofrece para implementarlo.

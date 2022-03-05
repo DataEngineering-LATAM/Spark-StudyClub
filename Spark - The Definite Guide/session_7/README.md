@@ -15,7 +15,7 @@ Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado `A
 
 #### Grabación de la sesión
 
-[![Watch Session 7](/assets/youtube.png)](https://www.youtube.com/watch?v=zh8AHzCfhUY)
+[![Watch Session 7](../assets/youtube.png)](https://www.youtube.com/watch?v=zh8AHzCfhUY)
 
 #### Nuestras redes sociales
 * [Youtube](https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1 'Subscríbate al canal')
