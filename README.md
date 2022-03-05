@@ -1,5 +1,3 @@
-![Banner](assets/banner_main.png)
-
 # Spark Study Club
 
 Bienvenidos al repositorio del grupo de estudios de Spark de Data Engineering LATAM.
