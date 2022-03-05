@@ -1,7 +1,7 @@
 ## Session 7
 ### Chapter 7 - Aggregations
 
-![Banner Session 7](/assets/banner_session_7.png)
+![Banner Session 7](../assets/banner_session_7.png)
 
 ### Resumen
 En esta sesión se habló sobre las operaciones de agregación en Spark. Entre los diferentes temas tratados se encontraban:
