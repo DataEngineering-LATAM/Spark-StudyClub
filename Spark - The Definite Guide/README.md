@@ -4,6 +4,20 @@
 
 En este repositorio se encuentran los materiales de las sesiones sobre Apache Spark llevadas a cabo por la comunidad de Data Engineering LATAM.
 
+## Índice
+
+* [Sesión 7 - Aggregations](session_7)
+* [Sesión 8 - Joins](session_8)
+* [Sesión 9 - Data Sources y Spark SQL](session_9)
+* [Sesión 10 - Datasets, RDDs y Variables Distribuidas Compartidas](session_10)
+* [Sesión 11 - Aplicaciones en Producción (parte 1)](session_11)
+* [Sesión 12 - Aplicaciones en Producción (parte 2) con Spark en Kubernetes](session_12)
+* [Sesión 13 - Fundamentos de Structured Streaming](session_13)
+* [Sesión 14 - Event-Time y Stateful Processing](session_14)
+* [Sesión 15 - Introducción a la Analítica Avanzada y Machine Learning con Spark ML](session_15)
+* [Sesión 16 - Preprocesamiento y Extracción de Características con Spark ML (parte 1)](session_16)
+
+
 ## Sobre "Spark - The Definite Guide"
 **Spark - The Definite Guide** es un libro co-escrito por el creador original de Apache Spark, Matei Zaharia, y por el Bill Chambers, ambos desempeñandose en Databricks. El libro está dirigido principalmente a los científicos e ingenieros de datos que desean dar los primeros pasos con Apache Spark.
 
