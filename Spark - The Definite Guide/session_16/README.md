@@ -13,7 +13,7 @@ En esta sesión, nos enfocaremos en el tema del preprocesamiento e ingeniería d
 El notebook que se utilizó para realizar el análsis se encuentra en `Text Preprocessing and Feature Extraction.ipynb`. Los datos utilizados (`train.csv`) fueron extraídos de la competición denominada `Tweet Sentiment Extraction` de **Kaggle**. Puedes acceder a estos datos desde [aquí](https://www.kaggle.com/competitions/tweet-sentiment-extraction/data) (es necesario tener una cuenta en Kaggle y aceptar a los términos de la competición).
 
 #### Grabación de la sesión
-Pendiente
+[![Watch Session 16](../assets/youtube.png)](https://www.youtube.com/watch?v=T2B0ZJlYOqU)
 
 
 #### Nuestras redes sociales
