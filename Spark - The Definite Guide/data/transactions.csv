@@ -1,0 +1,13 @@
+TransactionId,CustomerID,Merchant,Product,TotalAmount,Date
+1,14,amazon.com.uk,[shirt,shoes],150,2021-04-08
+2,12,marksandspencer.com,[short,shirt],50,2021-04-08
+3,14,amazon.com.uk,[smartphone,charger],450,2021-04-09
+4,12,tesco.com,[fruits,meat,wholegrains],75,2021-04-09
+5,13,apple.com.uk,[charger,headphone],120,2021-04-09
+6,15,e.leclerc,[smartphone],550,2021-04-10
+7,14,zalando.com,[shoes],45,2021-04-11
+8,13,zalando.com,[handbag,jumpsuit],250,2021-04-13
+9,15,amazon.com,[books],50,2021-04-13
+10,12,amazon.com,[necklaces,boots],350,2021-04-13
+11,14,amazon.com.uk,[desktop],850,2021-04-14
+12,15,e.leclerc,[smartphone],450,2021-04-14
