@@ -4,10 +4,12 @@
 ![Banner Session 15](../assets/banner_session_15.png)
 
 ### Resumen
+Más allá del análisis en gran escala con Spark SQL y del procesamiento en streaming con Structured Streaming, Spark también brinda soporte para la analítica avanzada con aprendizaje automático y analítica de grafos en entornos distribuidos.
+
 El notebook que se utilizó en Databricks para demostrar la construcción de una pipeline de machine learning con Spark ML se encuentra en `Advanced Analytics - Demo Lab.ipynb`
 
 #### Grabación de la sesión
-Pendiente
+[![Watch Session 15](../assets/youtube.png)](https://www.youtube.com/watch?v=28T-vSLznsw)
 
 
 #### Nuestras redes sociales

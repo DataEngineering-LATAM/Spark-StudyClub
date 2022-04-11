@@ -15,7 +15,9 @@ En este repositorio se encuentran los materiales de las sesiones sobre Apache Sp
 * [Sesión 13 - Fundamentos de Structured Streaming](session_13)
 * [Sesión 14 - Event-Time y Stateful Processing](session_14)
 * [Sesión 15 - Introducción a la Analítica Avanzada y Machine Learning con Spark ML](session_15)
-* [Sesión 16 - Preprocesamiento y Extracción de Características con Spark ML (parte 1)](session_16)
+* [Sesión 16 - preprocesamiento y extracción de textos con Spark ML](session_16)
+* [Sesión 17 - preprocesamiento de datos continuos y categóricos con Spark ML](session_17)
+* [Sesión 18 - selección y manipulación de características con Spark ML)](session_18)
 
 
 ## Sobre "Spark - The Definite Guide"
