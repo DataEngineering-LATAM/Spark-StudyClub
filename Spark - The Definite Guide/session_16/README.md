@@ -10,7 +10,7 @@ Cualquier científico de datos o ingeniero de machine learning que se precie sab
 
 En esta sesión, nos enfocaremos en el tema del preprocesamiento e ingeniería de características de textos. El procesamiento de texto es una disciplina importante en la minería de datos y en el procesamiento de lenguaje natural (NLP). Spark ML nos ofrece diversas herramientas para convertir el texto en un vector representativo numérico. Exploraremos estas herramientas en un ejemplo sencillo de análsis de sentimiento de los tweets.
 
-El notebook que se utilizó para realizar el análsis se encuentra en `Text Preprocessing and Feature Extraction.ipynb`. Los datos utilizados (`train.csv`) fueron extraídos de la competición denominada `Tweet Sentiment Extraction` de **Kaggle**. Puedes acceder a estos datos desde [aquí](https://www.kaggle.com/competitions/tweet-sentiment-extraction/data) (es necesario tener una cuenta en Kaggle y aceptar a los términos de la competición).
+El notebook que se utilizó para realizar el análsis se encuentra en [`Text Preprocessing and Feature Extraction.ipynb`](Text%20Preprocessing%20and%20Feature%20Extraction.ipynb). Los datos utilizados (`train.csv`) fueron extraídos de la competición denominada `Tweet Sentiment Extraction` de **Kaggle**. Puedes acceder a estos datos desde [aquí](https://www.kaggle.com/competitions/tweet-sentiment-extraction/data) (es necesario tener una cuenta en Kaggle y aceptar a los términos de la competición).
 
 #### Grabación de la sesión
 [![Watch Session 16](../assets/youtube.png)](https://www.youtube.com/watch?v=T2B0ZJlYOqU)

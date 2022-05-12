@@ -11,7 +11,7 @@ Esta sesión abordó diferentes temas relacionados a las operaciones de joins en
 * Cómo Spark realiza los joins
 * Desafíos frecuentes de las operaciones de joins
 
-Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado `Spark Joins.ipynb`
+Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado [`Spark Joins.ipynb`](Spark%20Joins.ipynb)
 
 #### Grabación de la sesión
 

@@ -13,7 +13,7 @@ Entre los temas principales estaban:
 - User-Defined Functions
 - Trabajando con datos del tipo complejo
 
-Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado `Data Sources and Spark SQL.ipynb`
+Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado [`Data Sources and Spark SQL.ipynb`](Data%20Sources%20and%20Spark%20SQL.ipynb)
 
 #### Grabación de la sesión
 

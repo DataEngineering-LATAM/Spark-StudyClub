@@ -4,10 +4,10 @@
 ![Banner Session 20](../assets/banner_session_20.png)
 
 ### Resumen
-En este sesión, seguiremos estudiando los modelos de MLlib para resolver los problemas de aprendizaje automático en Apache Spark. Nos acercaremos a los modelos de clasificación y aprenderemos a optimizar nuestros modelos en Spark.
+En esta sesión, seguiremos estudiando los modelos de MLlib para resolver los problemas de aprendizaje automático en Apache Spark. Nos acercaremos a los modelos de clasificación y aprenderemos a optimizar nuestros modelos en Spark.
 
 
-El notebook que se utilizó durante la sesión se denomina `Classification.ipynb`. Los datos utilizados fueron extraídos de:
+El notebook que se utilizó durante la sesión se denomina [`Classification.ipynb`](Classification.ipynb). Los datos utilizados fueron extraídos de:
 * [Credit Card customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) desde **Kaggle**
 
 #### Grabación de la sesión

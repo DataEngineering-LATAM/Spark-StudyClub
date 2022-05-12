@@ -11,7 +11,7 @@ En esta sesión se habló sobre las operaciones de agregación en Spark. Entre l
 * Window Functions
 * User-Defined Functions
 
-Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado `Aggregations.ipynb`
+Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado [`Aggregations.ipynb`](Aggregations.ipynb)
 
 #### Grabación de la sesión
 
