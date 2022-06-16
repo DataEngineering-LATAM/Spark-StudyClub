@@ -14,10 +14,10 @@ Preprocesaremos los datos continuos y categoricos en dos ejemplos:
 * Análisis de tasa de abandono de consumidores de tarjetas de crédito, y
 * Predicción de la volatilidad de precios de las opciones financieras.
 
-El notebook que se utilizó para realizar el análsis se encuentra en `Feature Transformation.ipynb`. Se utilizó dos conjuntos de datos: el **[Credit Card customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)** (en Kaggle) y los datos de la competición en Kaggle denominada **[Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)**.
+El notebook que se utilizó para realizar el análsis se encuentra en [`Feature Transformation.ipynb`](Feature%20Transformation.ipynb). Se utilizó dos conjuntos de datos: el **[Credit Card customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)** (en Kaggle) y los datos de la competición en Kaggle denominada **[Optiver Realized Volatility Prediction](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview)**.
 
 #### Grabación de la sesión
-Pendiente
+[![Watch Session 17](../assets/youtube.png)](https://www.youtube.com/watch?v=s_d3fM41dTY)
 
 
 #### Nuestras redes sociales

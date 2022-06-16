@@ -1,5 +1,5 @@
 ## Session 5
-### Chapter 5 - Basic Structured Operation
+### Chapter 5 - Basic Structured Operations
 
 ![Banner Session 5](../assets/banner_session_5.png)
 
@@ -35,11 +35,11 @@ En esta sesión se habló sobre las operaciones de estructuras basicas en Spark.
 	* Repartition and Coalesce
 	* Collecting Rows to the Driver
 
-Ejemplos de cada uno de los temas fueron ejecutados en un notebook denominado `basic_structured_operation.scala`
+Ejemplos expuestos fueron ejecutados en un archivo scala denominado `basic_structured_operation.scala`
 
 #### Grabación de la sesión
 
-[![Watch Session 5](../assets/youtube.png)](https://www.youtube.com/watch?v=CxnTp5ZDAGE&t=3s)
+[![Watch Session 5](../assets/youtube.png)](https://www.youtube.com/watch?v=CxnTp5ZDAGE)
 
 #### Nuestras redes sociales
 * [Youtube](https://www.youtube.com/channel/UCqFCoUEvxR23ymmih0GD7mQ?sub_confirmation=1 'Subscríbate al canal')

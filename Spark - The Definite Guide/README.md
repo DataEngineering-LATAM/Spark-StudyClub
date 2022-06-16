@@ -6,19 +6,30 @@ En este repositorio se encuentran los materiales de las sesiones sobre Apache Sp
 
 ## Índice
 
+#### Parte II. APIs Estructurados - DataFrames, SQL y Datasets
 * [Sesión 5 - Basic Structured Operation](session_5)
 * [Sesión 7 - Aggregations](session_7)
 * [Sesión 8 - Joins](session_8)
 * [Sesión 9 - Data Sources y Spark SQL](session_9)
+
+#### Parte III. APIs de bajo nivel
 * [Sesión 10 - Datasets, RDDs y Variables Distribuidas Compartidas](session_10)
+
+#### Parte IV. Aplicaciones en Producción
 * [Sesión 11 - Aplicaciones en Producción (parte 1)](session_11)
 * [Sesión 12 - Aplicaciones en Producción (parte 2) con Spark en Kubernetes](session_12)
+
+#### Parte V. Streaming
 * [Sesión 13 - Fundamentos de Structured Streaming](session_13)
 * [Sesión 14 - Event-Time y Stateful Processing](session_14)
+
+#### Parte VI. Analítica Avanzada y Machine Learning con Spark ML
 * [Sesión 15 - Introducción a la Analítica Avanzada y Machine Learning con Spark ML](session_15)
-* [Sesión 16 - preprocesamiento y extracción de textos con Spark ML](session_16)
-* [Sesión 17 - preprocesamiento de datos continuos y categóricos con Spark ML](session_17)
-* [Sesión 18 - selección y manipulación de características con Spark ML)](session_18)
+* [Sesión 16 - Preprocesamiento y extracción de textos con Spark ML](session_16)
+* [Sesión 17 - Preprocesamiento de datos continuos y categóricos con Spark ML](session_17)
+* [Sesión 18 - Selección y manipulación de características con Spark ML](session_18)
+* [Sesión 19 - Modelos de regresión con Spark Machine Learning](session_19)
+* [Sesión 20 - Modelos de clasificación y ajuste de hiperparámetros con Spark ML](session_20)
 
 
 ## Sobre "Spark - The Definite Guide"
