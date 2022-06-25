@@ -11,7 +11,7 @@ El notebook que se utilizó durante la sesión se denomina [`Classification.ipyn
 * [Credit Card customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) desde **Kaggle**
 
 #### Grabación de la sesión
-Pendiente
+[![Watch Session 20](../assets/youtube.png)](https://www.youtube.com/watch?v=7_u37ugJB1A)
 
 
 #### Nuestras redes sociales
