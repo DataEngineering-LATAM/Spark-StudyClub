@@ -5,13 +5,15 @@ Bienvenidos al repositorio del grupo de estudios de Spark de Data Engineering La
 Mayor información aquí: [Telegram](https://t.me/dataEngineeringLatam_Spark 'Telegram')
 
 ## Sobre el grupo
+
 El **Spark Study Club** de Data Engineering Latam está tomando la iniciativa de llevar sesiones de estudios sobre sobre diversos temas para que sus miembros puedan familiarizarse con [Apache Spark](https://spark.apache.org), la herramienta de analítica unificada, multi lenguage y distribuída que forma parte de *The Apache Software Foundation* y que es utilizada para ejecutar tareas de ingeniería de datos y de ciencia de datos a gran escala.
 
 ## Sobre el repositorio
+
 Este repositorio acomoda los materiales utilizados en las sesiones de estudio sobre Apache Spark llevadas a cabo por Data Engineering Latam.
 
-* Databricks Certified Associate
-* Spark - The Definite Guide
+* [Databricks Certified Associate](https://github.com/DataEngineering-LATAM/Spark-StudyClub/tree/main/Databricks%20Certified%20Associate)
+* [Spark - The Definite Guide](https://github.com/DataEngineering-LATAM/Spark-StudyClub/tree/main/Spark%20-%20The%20Definite%20Guide)
 
 Instrucciones para utilizar el repositorio estarán dentro de las respectivas carpetas en `root`.
 
